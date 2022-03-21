@@ -16,6 +16,7 @@ ___
 ---
 
 ## About myself:
+I from Belarus and i live in city Hrodna.
 
 I started learning web development in 2021.
 
